@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function CodeInfoPage() {
+function CodeExplainClauda() {
     return (
         <div className="container code-info-page">
             <Link to="/" className="nav-link">الرئيسية</Link>
@@ -431,4 +431,4 @@ const parsed = JSON.parse(data)`}</code></pre>
     );
 }
 
-export default CodeInfoPage;
+export default CodeExplainClauda;

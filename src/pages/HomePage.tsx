@@ -49,7 +49,8 @@ function HomePage() {
         <div className="container">
 
 
-            <Link to="/code-info" className="nav-link">شرح الكود</Link>
+            <Link to="/code-gemini" className="nav-link">شرح الكود - Gemini</Link> {"  "}
+            <Link to="/code-clauda" className="nav-link">شرح الكود - Clauda</Link>
 
             <h4>📝 مدير المهام</h4>
 
